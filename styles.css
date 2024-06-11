@@ -1,0 +1,78 @@
+/* Basic Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #333;
+    background: #f9f9f9;
+    line-height: 1.6;
+}
+
+header {
+    background-color: #0056b3; /* Deep blue background */
+    color: white;
+    padding: 1rem 2rem; /* Padding around the content */
+    text-align: center;
+}
+
+header img.logo {
+    width: 120px; /* Smaller logo for modern design */
+}
+
+nav ul {
+    list-style-type: none;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    transition: color 0.3s ease;
+}
+
+nav ul li a:hover {
+    color: #ffcc00; /* Highlight color on hover */
+}
+
+section {
+    padding: 2rem;
+    margin-top: 1rem;
+    background: white;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1); /* Adding subtle shadows for depth */
+}
+
+h1, h2 {
+    color: #333;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+.service {
+    background: linear-gradient(to right, #ffffff, #e6e6e6); /* Subtle gradient for each service block */
+    margin-bottom: 1rem;
+    padding: 1rem;
+    border-left: 5px solid #0056b3; /* A blue accent on the side */
+    transition: transform 0.3s ease;
+}
+
+.service:hover {
+    transform: translateY(-5px); /* Slight raise effect on hover */
+}
