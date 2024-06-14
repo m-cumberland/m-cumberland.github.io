@@ -4,26 +4,26 @@ document.addEventListener('DOMContentLoaded', function() {
         {
             name: 'Custom Service',
             price: 'Starting at $100',
-            description: 'Whatever projects you have planned up. No matter what the project is, dont hesitate to ask. We dont like saying no.'
+            description: 'No matter what projects you have planned up, no matter what the size, dont hesitate to ask.'
         },
         {
             name: 'Door Casing/Trim, with caulking',
-            price: '$150 per door, add $30 for caulking.',
+            price: '$150 per door, add $30 for caulking. $25 for removal of existing casing and caulking.',
             description: 'Professional door casing and trim installation with caulking. Example pricing with caulking for 4 doors: $720.'
         },
         {
             name: 'Window Casing/Trim, with caulking',
-            price: '$125 per Normal window, $175 per Large window, add $30 for caulking.',
+            price: '$125 per Normal window, $175 per Large window, add $30 for caulking. $25 for removal of existing casing and caulking.',
             description: 'Window casing and trim installation with caulking. Example pricing for 4 windows: $670. (3 Normal & 1 Large window with caulking)'
         },
         {
             name: 'Interior Caulking',
-            price: '$30 per 10 linear feet',
+            price: '$30 per 10 linear feet. $10 per 10 linear feet for removal of existing caulking.',
             description: 'Professional interior caulking for various applications. Example pricing for 150ft: $450.'
         },
         {
             name: 'Baseboard Trim with caulking',
-            price: '$40 per 10ft of baseboard, add $30 per 10ft for caulking',
+            price: '$40 per 10 linear feet of baseboard, add $30 per 10ft for caulking. $2 per 10 linear feet for removal of existing baseboard and caulking.',
             description: 'Installation of baseboard trim with professional caulking. Example pricing with caulking for 150ft: $1050 .'
         },
         {
@@ -33,12 +33,12 @@ document.addEventListener('DOMContentLoaded', function() {
         },
         {
             name: 'Replacing Door with casing',
-            price: '$150 door only, $275 with casing/trim',
+            price: '$150 door only, $275 with casing/trim, $30 with caulking. $25 for removal of existing casing and caulking.',
             description: 'New door replacement with new casing/trim. Example pricing for 4 doors: $1100.'
         },
         {
             name: 'Installing New Interior Door with jamb and casing',
-            price: '$300 Door with jamb, $425 with casing/trim',
+            price: '$300 Door with jamb, $425 with casing/trim, $30 with caulking. $25 for removal of existing casing and caulking',
             description: 'Installation of new doors complete with jamb and casing. Example pricing for 4 doors: $1700.'
         },
         {
