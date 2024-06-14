@@ -9,37 +9,37 @@ document.addEventListener('DOMContentLoaded', function() {
         {
             name: 'Door Casing/Trim, with caulking',
             price: '$150 per door, add $30 for caulking. $25 for removal of existing casing and caulking.',
-            description: 'Professional door casing and trim installation with caulking. Example pricing with caulking for 4 doors: $720.'
+            description: 'Professional door casing and trim installation with caulking.'
         },
         {
             name: 'Window Casing/Trim, with caulking',
             price: '$125 per Normal window, $175 per Large window, add $30 for caulking. $25 for removal of existing casing and caulking.',
-            description: 'Window casing and trim installation with caulking. Example pricing for 4 windows: $670. (3 Normal & 1 Large window with caulking)'
+            description: 'Window casing and trim installation with caulking.'
         },
         {
             name: 'Interior Caulking',
             price: '$30 per 10 linear feet. $10 per 10 linear feet for removal of existing caulking.',
-            description: 'Professional interior caulking for various applications. Example pricing for 150ft: $450.'
+            description: 'Professional interior caulking for various applications.'
         },
         {
             name: 'Baseboard Trim with caulking',
             price: '$40 per 10 linear feet of baseboard, add $30 per 10ft for caulking. $2 per 10 linear feet for removal of existing baseboard and caulking.',
-            description: 'Installation of baseboard trim with professional caulking. Example pricing with caulking for 150ft: $1050 .'
+            description: 'Installation of baseboard trim with professional caulking.'
         },
         {
             name: 'Replacing Door Hardware',
             price: '$100',
-            description: 'Door hardware replacement. (Handle and hinges) Example pricing for 4 doors: $400.'
+            description: 'Door hardware replacement. (Handle and hinges)'
         },
         {
             name: 'Replacing Door with casing',
             price: '$150 door only, $275 with casing/trim, $30 with caulking. $25 for removal of existing casing and caulking.',
-            description: 'New door replacement with new casing/trim. Example pricing for 4 doors: $1100.'
+            description: 'New door replacement with new casing/trim.'
         },
         {
             name: 'Installing New Interior Door with jamb and casing',
             price: '$300 Door with jamb, $425 with casing/trim, $30 with caulking. $25 for removal of existing casing and caulking',
-            description: 'Installation of new doors complete with jamb and casing. Example pricing for 4 doors: $1700.'
+            description: 'Installation of new doors complete with jamb and casing.'
         },
         {
             name: 'Building Garage/Storage Shelving',
@@ -54,7 +54,7 @@ document.addEventListener('DOMContentLoaded', function() {
         {
             name: 'Hanging Curtain Rods/Curtains',
             price: '$50 Normal window, $75 for Large, an additional $50 for hanging curtains.',
-            description: 'Professional installation of curtain rods and curtains. Example pricing for 8 windows: $825 (7 Normal & 1 Large window all with curtains).'
+            description: 'Professional installation of curtain rods and curtains.'
         },
         {
             name: 'Cabinet Hardware Replacement',
