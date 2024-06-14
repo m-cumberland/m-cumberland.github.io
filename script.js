@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', function() {
         },
         {
             name: 'Baseboard Trim with caulking',
-            price: '$40 per 10 linear feet of baseboard, add $30 per 10ft for caulking. $2 per 10 linear feet for removal of existing baseboard and caulking.',
+            price: '$40 per 10 linear feet of baseboard, add $30 per 10 linear feet for caulking. $2 per 10 linear feet for removal of existing baseboard and caulking.',
             description: 'Installation of baseboard trim with professional caulking.'
         },
         {
